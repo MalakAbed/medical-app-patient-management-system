@@ -110,7 +110,11 @@ FinalProject2/
 3. Create a database named `hospital`.
 4. Import the SQL database file into phpMyAdmin.
 5. Update the database connection settings if needed.
-6. Open the project in your browser using:
+6. Open the project in your browser:
 
 ```bash
-http://localhost/medical-app
+### Using MAMP (Mac)
+http://localhost:8888/medical-app/html/
+
+### Using XAMPP (Windows)
+http://localhost/medical-app/html/
